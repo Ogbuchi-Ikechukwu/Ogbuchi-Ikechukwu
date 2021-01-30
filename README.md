@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/github/followers/Ogbuchi-Ikechukwu?style=social)
+![](https://komarev.com/ghpvc/?username=Ogbuchi-Ikechukwu)
 
 My name is Ikechukwu Nigel Ogbuchi. I am very interested in emerging technologies like Artificial Intelligence, Machine Learning and Cloud Computing.
 
