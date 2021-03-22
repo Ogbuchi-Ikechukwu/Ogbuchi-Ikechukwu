@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/Ogbuchi-Ikechukwu?style=social)
 ![](https://komarev.com/ghpvc/?username=Ogbuchi-Ikechukwu)
 
-My name is Ikechukwu Nigel Ogbuchi. I am very interested in emerging technologies like Artificial Intelligence, Machine Learning and Cloud Computing.
+My name is Ikechukwu Nigel Ogbuchi, an IT professional who is focused on emerging technologies such as Artificial Intelligence, Machine Learning and Cloud Computing.
 
 For business inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/nigelike)
 
@@ -15,5 +15,5 @@ For business inquiries feel free to get in touch with me on [Linkedin](https://l
 - 🌱 I’m currently learning Deep Learning and Cloud Computing
 - 👯 I’m looking to collaborate on Interesting Machine Learning projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Won two MIT hackathons, Google Africa Developer Scholarship, Microsoft Azure and Linux Foundation technology Scholarships in 2020
+- ⚡ Fun fact: Won two MIT hackathons, Google Africa Developer Scholarship, Microsoft Azure and Linux Foundation technology Scholarships in 2020, OpenCV AI finalist 2021
 
