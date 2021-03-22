@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### I am a Freelance Data Scientist and Machine Learning Engineer
 
 ![](https://img.shields.io/github/followers/Ogbuchi-Ikechukwu?style=social)
 ![](https://komarev.com/ghpvc/?username=Ogbuchi-Ikechukwu)
