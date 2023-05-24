@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a Freelance Data Scientist and Machine Learning Engineer
+### I am a Researcher interested in Application of AI in Education, Healthcare and other sectors.
 
 ![](https://img.shields.io/github/followers/Ogbuchi-Ikechukwu?style=social)
 ![](https://komarev.com/ghpvc/?username=Ogbuchi-Ikechukwu)
