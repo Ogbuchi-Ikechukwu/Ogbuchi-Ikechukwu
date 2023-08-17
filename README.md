@@ -15,5 +15,5 @@ For inquiries feel free to get in touch with me on [Linkedin](https://linkedin.c
 - 🌱 I’m currently learning Deep Learning and Cloud Computing
 - 👯 I’m looking to collaborate on Interesting Machine Learning projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Won two MIT hackathons, Google Africa Developer Scholarship, Microsoft Azure and Linux Foundation technology Scholarships in 2020, OpenCV AI finalist 2021
+- ⚡ Fun fact: Won two MIT hackathons, Google Africa Developer Scholarship, Microsoft Azure and Linux Foundation technology Scholarships in 2020, OpenCV AI finalist 2021, Won an Award in Responsible AI from the Data science and ML Company Dataiku in 2022.
 
