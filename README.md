@@ -9,7 +9,7 @@ My name is Ikechukwu Nigel Ogbuchi, a researcher who is focused on emerging tech
 For inquiries feel free to get in touch with me on [Linkedin](https://linkedin.com/in/nigelike)
 
 ### My stats & badges 
-![Github stats](https://https://github-readme-stats-sigma-five.vercel.app/api?username=Ogbuchi-Ikechukwu&show_icons=true&count_private=true)
+![Github stats](https://https://github-readme-stats-sigma-five.vercel.app/api?username=Ogbuchi-Ikechukwu&theme=react&line_height=40&hide=css)
 
 - 🔭 I’m currently working on Data Analytics projects
 - 🌱 I’m currently learning Deep Learning and Cloud Computing
